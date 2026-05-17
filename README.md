@@ -8,28 +8,28 @@ I didn’t come into software through the traditional path.
 
 Automating spreadsheets and operational workflows with Python quietly escalated into building full systems. Freelancing accelerated that process because I kept running into the same problem across different businesses: operational chaos.
 
-Fragmented workflows, repetitive decisions, disconnected context, dashboards nobody wanted to open, and processes held together by spreadsheets and human memory.
+Fragmented workflows, disconnected context, repetitive decisions, dashboards nobody wanted to open, and processes held together by spreadsheets and human memory.
 
-That pushed me toward operational software, workflow systems and orchestration tooling.
+That naturally pushed me toward operational software, orchestration systems and AI-assisted infrastructure.
 
-I spend most of my time building around:
+The more I work around AI systems, the less interested I become in demo-driven products and the more interested I become in operational depth — systems where AI becomes part of the operational layer itself instead of just another interface sitting on top of it.
 
-- operational systems
-- operational tooling
-- workflow infrastructure
-- decision-support systems
-- memory and context infrastructure
-- internal software
-- B2B AaaS
+Most of what I build today revolves around workflow coordination, context centralization, decision-support and software designed to quietly reduce operational friction behind the scenes.
 
-The more I work around AI systems, the less interested I become in demo-driven products. I’m more interested in software that becomes part of the operational layer itself: coordinating workflows, centralizing context, reducing manual overhead and making businesses more functional behind the scenes.
+## SkytOffer — Operational software for digital launch systems
+
+SkytOffer started in 2023 after noticing how much operational and strategic work inside digital launches was still being handled through fragmented spreadsheets, disconnected tools and highly manual decision-making.
+
+What originally started as a much smaller workflow idea slowly evolved into a broader operational system focused on visibility, coordination, AI-assisted analysis and centralized strategic context.
+
+Ironically, the project itself ended up pulling me much deeper into orchestration problems, operational tooling and AI systems designed around real business workflows instead of isolated prompts or demo-driven interfaces.
 
 ## Current Systems
 
 | System | Direction |
 | --- | --- |
 | **ClerkOS** | Operational workspace built around local-first agents, persistent memory, workflow coordination and long-running tasks. |
-| **SkytOffer** | Strategic and operational system for digital launch operations, visibility, analysis and centralized decision-support. |
+| **SkytOffer** | Operational software for digital launch systems, visibility, analysis and centralized strategic context. |
 | **AlturionX** | Operational tooling focused on workflow systems, business intelligence and orchestration logic. |
 
 ## Systems Philosophy
@@ -39,14 +39,14 @@ Most companies don’t suffer from lack of software. They suffer from fragmented
 That’s the layer I keep gravitating toward.
 
 <p align="center">
-  <img src="assets/system-map-v2.svg" alt="Operational systems map" width="100%" />
+  <img src="assets/system-map-v2.svg" alt="Workflow infrastructure map" width="100%" />
 </p>
 
 ## Operational Interests
 
 | Signal | Current state |
 | --- | --- |
-| **Current focus** | AI operational systems |
+| **Current focus** | AI-assisted operational software |
 | **Current direction** | orchestration<br>workflow infrastructure<br>memory/context systems<br>decision-support tooling |
 | **Current problem** | most businesses still run on spreadsheet infrastructure |
 | **Current obsession** | systems that quietly remove operational friction |
