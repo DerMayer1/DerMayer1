@@ -16,7 +16,7 @@ Fragmented workflows, disconnected context, repetitive decisions, dashboards nob
 
 That naturally pushed me toward operational software, orchestration systems and AI-assisted infrastructure.
 
-The more I work around AI systems, the less interested I become in demo-driven products and the more interested I become in operational depth — systems where AI becomes part of the operational layer itself instead of just another interface sitting on top of it.
+The more I work around AI systems, the less interested I become in demo-driven products and the more interested I become in operational depth, systems where AI becomes part of the operational layer itself instead of just another interface sitting on top of it.
 
 Most of what I build today revolves around workflow coordination, context centralization, decision-support and software designed to quietly reduce operational friction behind the scenes.
 
