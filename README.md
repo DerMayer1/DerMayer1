@@ -81,8 +81,6 @@ I occasionally write and think about AI-native systems, orchestration layers, op
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&labelColor=000000&color=000000" alt="shadcn/ui" />
 </p>
 
 ### Backend and Data
@@ -100,7 +98,6 @@ I occasionally write and think about AI-native systems, orchestration layers, op
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&labelColor=D50C2D&color=D50C2D" alt="Hetzner" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Coolify-6D40D8?style=for-the-badge&labelColor=6D40D8&color=6D40D8" alt="Coolify" />
 </p>
@@ -112,6 +109,7 @@ I occasionally write and think about AI-native systems, orchestration layers, op
   <img src="https://img.shields.io/badge/ISO_13485-004B8D?style=for-the-badge&labelColor=004B8D&color=004B8D" alt="ISO 13485" />
   <img src="https://img.shields.io/badge/MDR_2017%2F745-004B8D?style=for-the-badge&labelColor=004B8D&color=004B8D" alt="MDR 2017/745" />
   <img src="https://img.shields.io/badge/GDPR-004B8D?style=for-the-badge&labelColor=004B8D&color=004B8D" alt="GDPR" />
+  <img src="https://img.shields.io/badge/LGPD-004B8D?style=for-the-badge&labelColor=004B8D&color=004B8D" alt="LGPD" />
 </p>
 
 <p align="center">
