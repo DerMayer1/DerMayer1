@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="DerMayer1 - operational software for real business workflows" width="100%" />
+  <img src="assets/banner-v2.svg" alt="DerMayer1 - operational software for real business workflows" width="100%" />
 </p>
 
 ## About
@@ -39,7 +39,7 @@ Most companies don’t suffer from lack of software. They suffer from fragmented
 That’s the layer I keep gravitating toward.
 
 <p align="center">
-  <img src="assets/system-map.svg" alt="Operational systems map" width="100%" />
+  <img src="assets/system-map-v2.svg" alt="Operational systems map" width="100%" />
 </p>
 
 ## Stack
