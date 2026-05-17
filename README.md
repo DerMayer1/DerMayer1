@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Profile banner" width="100%" />
+  <img src="assets/banner.svg" alt="Profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist&amp;weight=500&amp;size=16&amp;duration=2500&amp;pause=1200&amp;color=A3A3A3&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=MARKETS+→+AUTOMATION+→+AI+→+ORCHESTRATION+→+AaaS;Operational+software+for+real+business+workflows;Turning+spreadsheet+infrastructure+into+systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=16&duration=2500&pause=1200&color=A3A3A3&center=true&vCenter=true&width=900&lines=MARKETS+to+AUTOMATION+to+AI+to+ORCHESTRATION+to+AaaS;Operational+software+for+real+business+workflows;Turning+spreadsheet+infrastructure+into+systems" alt="Typing animation" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ That’s the layer I keep gravitating toward.
 # Infrastructure Map
 
 <p align="center">
-  <img src="./assets/system-map.svg" alt="Infrastructure map" width="100%" />
+  <img src="assets/system-map.svg" alt="Infrastructure map" width="100%" />
 </p>
 
 ---
