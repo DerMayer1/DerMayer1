@@ -44,26 +44,12 @@ That’s the layer I keep gravitating toward.
 
 ## Operational Interests
 
-```text
-CURRENT FOCUS
-────────────────────────────
-AI operational systems
-
-CURRENT DIRECTION
-────────────────────────────
-orchestration
-workflow infrastructure
-memory/context systems
-decision-support tooling
-
-CURRENT PROBLEM
-────────────────────────────
-most businesses still run on spreadsheet infrastructure
-
-CURRENT OBSESSION
-────────────────────────────
-systems that quietly remove operational friction
-```
+| Signal | Current state |
+| --- | --- |
+| **Current focus** | AI operational systems |
+| **Current direction** | orchestration<br>workflow infrastructure<br>memory/context systems<br>decision-support tooling |
+| **Current problem** | most businesses still run on spreadsheet infrastructure |
+| **Current obsession** | systems that quietly remove operational friction |
 
 ## Activity
 
