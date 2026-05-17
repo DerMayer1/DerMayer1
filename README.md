@@ -24,14 +24,6 @@ What originally started as a much smaller workflow idea slowly evolved into a br
 
 Ironically, the project itself ended up pulling me much deeper into orchestration problems, operational tooling and AI systems designed around real business workflows instead of isolated prompts or demo-driven interfaces.
 
-## Current Systems
-
-| System | Direction |
-| --- | --- |
-| **ClerkOS** | Operational workspace built around local-first agents, persistent memory, workflow coordination and long-running tasks. |
-| **SkytOffer** | Operational software for digital launch systems, visibility, analysis and centralized strategic context. |
-| **AlturionX** | Operational tooling focused on workflow systems, business intelligence and orchestration logic. |
-
 ## Systems Philosophy
 
 Most companies don’t suffer from lack of software. They suffer from fragmented workflows, disconnected context, repetitive decisions, dashboard sprawl, information latency and systems nobody wants to maintain.
