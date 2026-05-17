@@ -1,0 +1,23 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DerMayer1 profile banner</title>
+  <desc id="desc">Dark operational systems banner for a GitHub profile README.</desc>
+  <rect width="1200" height="360" fill="#0D1117"/>
+  <path d="M0 280H1200" stroke="#1F2937"/>
+  <path d="M0 80H1200" stroke="#151B23"/>
+  <path d="M160 0V360" stroke="#151B23"/>
+  <path d="M1040 0V360" stroke="#151B23"/>
+  <circle cx="160" cy="280" r="5" fill="#A3A3A3"/>
+  <circle cx="1040" cy="80" r="5" fill="#A3A3A3"/>
+  <path d="M160 280C340 120 506 120 600 180C694 240 860 240 1040 80" stroke="#6B7280" stroke-width="2"/>
+  <rect x="92" y="72" width="1016" height="216" rx="14" fill="#0A0A0A" stroke="#262626"/>
+  <text x="120" y="138" fill="#FAFAFA" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="0">DerMayer1</text>
+  <text x="120" y="184" fill="#A3A3A3" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="0">Operational software, AI-native workflows and orchestration systems.</text>
+  <text x="120" y="238" fill="#737373" font-family="SFMono-Regular, Consolas, monospace" font-size="16" letter-spacing="0">markets -> automation -> AI -> orchestration -> AaaS</text>
+  <g transform="translate(824 104)">
+    <rect x="0" y="0" width="216" height="128" rx="10" fill="#111827" stroke="#374151"/>
+    <path d="M24 40H116" stroke="#A3A3A3" stroke-width="4" stroke-linecap="round"/>
+    <path d="M24 68H184" stroke="#525252" stroke-width="4" stroke-linecap="round"/>
+    <path d="M24 96H152" stroke="#525252" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="174" cy="40" r="12" fill="#A3A3A3"/>
+  </g>
+</svg>
