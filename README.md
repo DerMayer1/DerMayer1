@@ -2,6 +2,10 @@
   <img src="assets/banner-v2.svg" alt="DerMayer1 - operational software for real business workflows" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=16&duration=2600&pause=1100&color=8B949E&center=true&vCenter=true&width=760&lines=workflow+coordination;context+centralization;decision-support+software;operational+friction%2C+quietly+removed" alt="Typing animation" />
+</p>
+
 ## About
 
 I didn’t come into software through the traditional path.
@@ -47,6 +51,10 @@ That’s the layer I keep gravitating toward.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerMayer1&bg_color=0d1117&color=8b949e&line=c9d1d9&point=f0f6fc&area=true&area_color=30363d&hide_border=true" alt="Zimmermann's GitHub contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DerMayer1/DerMayer1/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
 </p>
 
 ## Notes
