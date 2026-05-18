@@ -53,10 +53,6 @@ That’s the layer I keep gravitating toward.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerMayer1&bg_color=0d1117&color=8b949e&line=c9d1d9&point=f0f6fc&area=true&area_color=30363d&hide_border=true" alt="Zimmermann's GitHub contribution graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DerMayer1/DerMayer1/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
-</p>
-
 ## Notes
 
 I occasionally write and think about operational software, workflow infrastructure, AaaS, decision-support systems, agent coordination and why most companies are still one spreadsheet away from operational collapse.
